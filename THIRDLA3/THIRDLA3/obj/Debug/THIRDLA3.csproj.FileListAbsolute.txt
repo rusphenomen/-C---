@@ -1,0 +1,10 @@
+C:\Users\Mi\source\repos\THIRDLA3\THIRDLA3\obj\Debug\THIRDLA3.csproj.AssemblyReference.cache
+C:\Users\Mi\source\repos\THIRDLA3\THIRDLA3\obj\Debug\THIRDLA3.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\THIRDLA3\THIRDLA3\bin\Debug\THIRDLA3.exe.config
+C:\Users\Mi\source\repos\THIRDLA3\THIRDLA3\bin\Debug\THIRDLA3.exe
+C:\Users\Mi\source\repos\THIRDLA3\THIRDLA3\bin\Debug\THIRDLA3.pdb
+C:\Users\Mi\source\repos\THIRDLA3\THIRDLA3\bin\Debug\MyCircularList.dll
+C:\Users\Mi\source\repos\THIRDLA3\THIRDLA3\bin\Debug\MyCircularList.pdb
+C:\Users\Mi\source\repos\THIRDLA3\THIRDLA3\obj\Debug\THIRDLA3.csproj.CopyComplete
+C:\Users\Mi\source\repos\THIRDLA3\THIRDLA3\obj\Debug\THIRDLA3.exe
+C:\Users\Mi\source\repos\THIRDLA3\THIRDLA3\obj\Debug\THIRDLA3.pdb

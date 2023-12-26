@@ -1,0 +1,6 @@
+C:\Users\Mi\source\repos\THIRDLA3\MyCircularList\bin\Debug\MyCircularList.dll
+C:\Users\Mi\source\repos\THIRDLA3\MyCircularList\bin\Debug\MyCircularList.pdb
+C:\Users\Mi\source\repos\THIRDLA3\MyCircularList\obj\Debug\MyCircularList.csproj.AssemblyReference.cache
+C:\Users\Mi\source\repos\THIRDLA3\MyCircularList\obj\Debug\MyCircularList.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\THIRDLA3\MyCircularList\obj\Debug\MyCircularList.dll
+C:\Users\Mi\source\repos\THIRDLA3\MyCircularList\obj\Debug\MyCircularList.pdb

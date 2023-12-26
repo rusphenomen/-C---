@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THIRDLA3", "THIRDLA3\THIRDLA3.csproj", "{F0C436EF-3BFD-435C-99F4-3413C89F06E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCircularList", "MyCircularList\MyCircularList.csproj", "{8B0C4DC9-A617-40EF-BB40-43222F7A6211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0C436EF-3BFD-435C-99F4-3413C89F06E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C436EF-3BFD-435C-99F4-3413C89F06E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C436EF-3BFD-435C-99F4-3413C89F06E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C436EF-3BFD-435C-99F4-3413C89F06E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0C4DC9-A617-40EF-BB40-43222F7A6211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0C4DC9-A617-40EF-BB40-43222F7A6211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0C4DC9-A617-40EF-BB40-43222F7A6211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0C4DC9-A617-40EF-BB40-43222F7A6211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB4EF99-74D3-4545-B3DE-24A81C478A59}
+	EndGlobalSection
+EndGlobal
